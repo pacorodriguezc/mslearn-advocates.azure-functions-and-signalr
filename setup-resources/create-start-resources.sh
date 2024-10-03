@@ -10,7 +10,7 @@ set -e
 
 printf "Param 1: $1\n"
 
-LOCATION="eastus2"
+LOCATION="centralus"
 printf "Location: $LOCATION\n"
 
 # Check if user is logged into Azure CLI
